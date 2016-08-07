@@ -1,0 +1,5 @@
+io/spring/cloud/samples/fortuneteller/fortuneservice/Application.class
+io/spring/cloud/samples/fortuneteller/fortuneservice/domain/Fortune.class
+io/spring/cloud/samples/fortuneteller/fortuneservice/controllers/SpecialFortuneController.class
+io/spring/cloud/samples/fortuneteller/fortuneservice/controllers/FortuneController.class
+io/spring/cloud/samples/fortuneteller/fortuneservice/repositories/FortuneRepository.class

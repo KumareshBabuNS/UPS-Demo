@@ -1,0 +1,8 @@
+fortune-teller/fortune-teller-eureka/target
+.classpath
+.project
+.settings/
+.DS_Store
+.idea
+*.iml
+*.coverprofile
